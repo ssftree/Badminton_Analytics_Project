@@ -149,7 +149,36 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ## 📊 Visual Analytics & Insights
 
-### 1️⃣ Court Dominance Difference Map
+## 1️⃣ Player Detection(Inside Court Area)
+
+**What it shows:**
+
+- Frame‑wise detection of players constrained inside the court polygon  
+- Bounding boxes adjusted to each player’s centre position  
+- The number at the start of the title indicates total detections inside court for that frame
+
+<p align="center">
+  <img src="results/Player Detection.png" width="65%">
+</p>
+
+## 2️⃣ Skeleton Pose Estimation
+
+**What it shows:**
+
+- Frame‑wise detection of player keypoints using YOLOv8‑Pose  
+- Each skeleton represents a detected player with confidence score shown above the bounding box  
+- The number at the start of the title indicates total pose detections for that frame
+
+<p align="center">
+  <img src="results/Player Skeleton.png" width="65%">
+</p>
+
+
+**Insight:** Highlights posture, balance, and movement dynamics for both players.
+
+---
+
+### 3️⃣ Court Dominance Difference Map
 
 **What it shows:**
 
@@ -167,7 +196,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 2️⃣ Court Coverage – Convex Hull
+### 4️⃣ Court Coverage – Convex Hull
 
 **What it shows:**
 
@@ -183,7 +212,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 3️⃣ Zone Transition Matrix
+### 5️⃣ Zone Transition Matrix
 
 **What it shows:**
 
@@ -200,7 +229,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 4️⃣ Speed‑Weighted Court Map
+### 6️⃣ Speed‑Weighted Court Map
 
 **What it shows:**
 
@@ -215,7 +244,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 5️⃣ Recovery / Mean Position
+### 7️⃣ Recovery / Mean Position
 
 **What it shows:**
 
@@ -229,7 +258,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 **Insight:** Elite players tend to recover closer to optimal central positions.
 
-**Other Insights**
+** 8️⃣ Other Visuals**
 
 **Player Trajectories Over Court**
 
