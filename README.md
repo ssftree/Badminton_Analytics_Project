@@ -41,7 +41,7 @@ Below is a short preview of the annotated badminton analytics output.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1eHXk_JpB62gfHbw5AfBkhl1Yojlu7zTF/view?usp=sharing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OOjs_UI_icon_play.svg/120px-OOjs_UI_icon_play.png"
+    <img src="https://www.freeiconspng.com/images/play-button-icon-png"
          alt="Play"
          width="80"
          style="position:absolute; margin-top:160px; margin-left:160px; z-index:1"/>
