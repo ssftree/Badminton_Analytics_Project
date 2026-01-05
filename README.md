@@ -39,7 +39,16 @@ The pipeline is modular and extensible, enabling future shot-type classification
 
 Below is a short preview of the annotated badminton analytics output.
 
-[![Watch the demo](results/Thumbnail.png)](https://github.com/muhammadyasin79/Badminton_Analytics_Project/blob/main/results/annotated_with_audio.mp4)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1eHXk_JpB62gfHbw5AfBkhl1Yojlu7zTF/view?usp=sharing" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OOjs_UI_icon_play.svg/120px-OOjs_UI_icon_play.svg.png"
+         alt="Play"
+         width="80"
+         style="position:absolute; margin-top:160px; margin-left:160px; z-index:1"/>
+    <img src="results/Thumbnail.png.jpg" alt="Watch demo" width="400"/>
+  </a>
+</div>
+
 
 ---
 
