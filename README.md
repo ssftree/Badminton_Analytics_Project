@@ -1,4 +1,5 @@
-<meta property="og:image" content="https://github.com/muhammadyasin79/Badminton_Analytics_Project/raw/main/results/Thumbnail.png"/>
+<meta property="og:image" content="https://github.com/muhammad-yasin79/Badminton_Analytics_Project/raw/main/Thumbnail.png"/>
+
 # 🏸 Badminton Player Movement Analytics
 
 ![Annotated video frame](results/Thumbnail.png)
