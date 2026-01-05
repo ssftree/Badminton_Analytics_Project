@@ -311,8 +311,8 @@ colab notebook notebooks/Badminton_Analysis.ipynb
 **Muhammad Yasin**\
 Data Analytics | Computer Vision | Sports Analytics
 
-📫 LinkedIn: [https://www.linkedin.com/in/YOURNAME](https://www.linkedin.com/in/muhammad-yasin-ds)\
-💻 GitHub: [https://github.com/YOURUSERNAME](https://github.com/muhammadyasin79)
+📫 LinkedIn: [https://www.linkedin.com/in/muhammad-yasin-ds](https://www.linkedin.com/in/muhammad-yasin-ds)\
+💻 GitHub: [https://github.com/muhammadyasin79](https://github.com/muhammadyasin79)
 
 ---
 
