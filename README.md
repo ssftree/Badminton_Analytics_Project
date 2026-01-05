@@ -41,14 +41,13 @@ Below is a short preview of the annotated badminton analytics output.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1eHXk_JpB62gfHbw5AfBkhl1Yojlu7zTF/view?usp=sharing" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OOjs_UI_icon_play.svg/120px-OOjs_UI_icon_play.svg.png"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OOjs_UI_icon_play.svg/120px-OOjs_UI_icon_play.svg"
          alt="Play"
          width="80"
          style="position:absolute; margin-top:160px; margin-left:160px; z-index:1"/>
-    <img src="results/Thumbnail.png.jpg" alt="Watch demo" width="400"/>
+    <img src="results/Thumbnail.png" alt="Watch demo" width="400"/>
   </a>
 </div>
-
 
 ---
 
