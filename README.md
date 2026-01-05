@@ -39,7 +39,7 @@ The pipeline is modular and extensible, enabling future shot-type classification
 
 Below is a short preview of the annotated badminton analytics output.
 
-[![Watch the demo](results/sample_frame.jpg)](https://github.com/<muhammadyasin79>/Badminton_Analytics_Project/blob/main/results/annotated_with_audio.mp4)
+[![Watch the demo](results/Thumbnail.png)](https://github.com/muhammadyasin79/Badminton_Analytics_Project/blob/main/results/annotated_with_audio.mp4)
 
 ---
 
@@ -151,7 +151,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 - Negative regions indicate Player 2 control
 
 <p align="center">
-  <img src="Results/COURT DOMINANCE MAP (P1 − P2)_20260105_115142_056806.png" width="45%">
+  <img src="results/COURT DOMINANCE MAP (P1 − P2)_20260105_115142_056806.png" width="45%">
 </p>
 
 
@@ -168,7 +168,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 - Movement discipline vs roaming behavior
 
 <p align="center">
-  <img src="Results/CONVEX HULL (COURT COVERAGE)_20260105_115142_989414.png" width="45%">
+  <img src="results/CONVEX HULL (COURT COVERAGE)_20260105_115142_989414.png" width="45%">
 </p>
 
 
@@ -184,7 +184,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 - Attack ↔ defense transitions
 
 <p align="center">
-  <img src="Results/ZONE TRANSITION MATRIX_20260105_115144_062175.png" width="45%">
+  <img src="results/ZONE TRANSITION MATRIX_20260105_115144_062175.png" width="45%">
 </p>
 
 
@@ -201,7 +201,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 - High‑intensity zones where explosive movement occurs
 
 <p align="center">
-  <img src="Results/SPEED-WEIGHTED COURT MAP_20260105_115145_082427.png" width="45%">
+  <img src="results/SPEED-WEIGHTED COURT MAP_20260105_115145_082427.png" width="45%">
 </p>
 
 **Insight:** Identifies physically demanding regions of play.
@@ -216,7 +216,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 - Tactical reset tendencies
 
 <p align="center">
-  <img src="Results/RECOVERY POSITION (MEAN + DISPERSION)_20260105_115146_255325.png" width="45%">
+  <img src="results/RECOVERY POSITION (MEAN + DISPERSION)_20260105_115146_255325.png" width="45%">
 </p>
 
 
@@ -227,31 +227,31 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 **Player Trajectories Over Court**
 
 <p align="center">
-  <img src="Results/Player Trajectories Over Court_20260105_113759_732482.png" width="45%">
+  <img src="results/Player Trajectories Over Court_20260105_113759_732482.png" width="45%">
 </p>
 
 **Player Movement Heatmap**
 
 <p align="center">
-  <img src="Results/Movement Heatmap_20260105_114132_404202.png" width="45%">
+  <img src="results/Movement Heatmap_20260105_114132_404202.png" width="45%">
 </p>
 
 **Players Speed over Time**
 
 <p align="center">
-  <img src="Results/Players Speed over Time_20260105_113957_537077.png" width="45%">
+  <img src="results/Players Speed over Time_20260105_113957_537077.png" width="45%">
 </p>
 
 **Speed over Frame**
 
 <p align="center">
-  <img src="Results/layerA_validation_speed_plot_20260105_114342_805135.png" width="45%">
+  <img src="results/layerA_validation_speed_plot_20260105_114342_805135.png" width="45%">
 </p>
 
 **validation_metrics**
 
 <p align="center">
-  <img src="Results/extended_validation_metrics_20260105_114520_070051.png" width="45%">
+  <img src="results/extended_validation_metrics_20260105_114520_070051.png" width="45%">
 </p>
 
 
