@@ -37,11 +37,11 @@ The pipeline is modular and extensible, enabling future shot-type classification
 
 ## 🎥 Demo
 
-Below is a short preview of the annotated badminton analytics output.
+Below is a preview of the annotated badminton analytics output.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1eHXk_JpB62gfHbw5AfBkhl1Yojlu7zTF/view?usp=sharing" target="_blank">
-    ▶️ Click to watch full demo on Google Drive<br/>
+    ▶️ Click to watch full demo<br/>
     <img src="results/Thumbnail.png" alt="Watch demo" width="400"/>
   </a>
 </div>
