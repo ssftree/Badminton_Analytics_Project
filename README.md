@@ -110,23 +110,23 @@ Badminton_Analytics_Project/
 
 ## 🔬 Methodology
 
-### 1️⃣ Player Tracking & Trajectory Extraction
+### 1. Player Tracking & Trajectory Extraction
 
 - Players are detected using YOLOv8 pose estimation
 - The body center (or ankle midpoint) is used as the player position
 - Trajectories are stored as `(x, y, time)` sequences
 
-### 2️⃣ Court Normalization
+### 2. Court Normalization
 
 - Raw coordinates are normalized to a **canonical court reference frame**
 - This allows fair comparison across frames, rallies, and players
 
-### 3️⃣ Spatial Analytics
+### 3. Spatial Analytics
 
 - The court is divided into logical zones (Front/Mid/Back × Left/Right)
 - Movement density, transitions, and dominance are computed
 
-### 4️⃣ Shuttlecock Detection & Shot-Type Context (YOLO11)
+### 4. Shuttlecock Detection & Shot-Type Context (YOLO11)
 
 - A YOLO11 object detection model is custom-trained to detect the shuttlecock
 -Training data is sourced from an open-source Roboflow dataset
@@ -149,7 +149,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ## 📊 Visual Analytics & Insights
 
-## 1️⃣ Player Detection(Inside Court Area)
+## 1. Player Detection(Inside Court Area)
 
 **What it shows:**
 
@@ -161,7 +161,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
   <img src="results/Player Detection.png" width="65%">
 </p>
 
-## 2️⃣ Skeleton Pose Estimation
+## 2. Skeleton Pose Estimation
 
 **What it shows:**
 
@@ -178,7 +178,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 3️⃣ Court Dominance Difference Map
+### 3. Court Dominance Difference Map
 
 **What it shows:**
 
@@ -196,7 +196,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 4️⃣ Court Coverage – Convex Hull
+### 4. Court Coverage – Convex Hull
 
 **What it shows:**
 
@@ -212,7 +212,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 5️⃣ Zone Transition Matrix
+### 5. Zone Transition Matrix
 
 **What it shows:**
 
@@ -229,7 +229,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 6️⃣ Speed‑Weighted Court Map
+### 6. Speed‑Weighted Court Map
 
 **What it shows:**
 
@@ -244,7 +244,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 ---
 
-### 7️⃣ Recovery / Mean Position
+### 7. Recovery / Mean Position
 
 **What it shows:**
 
@@ -258,7 +258,7 @@ This enables shot-type analysis (e.g., smash, drop, clear) by combining:
 
 **Insight:** Elite players tend to recover closer to optimal central positions.
 
-** 8️⃣ Other Visuals**
+** 8. Other Visuals**
 
 **Player Trajectories Over Court**
 
@@ -337,11 +337,11 @@ colab notebook notebooks/Badminton_Analysis.ipynb
 
 ## 👤 Author
 
-**Muhammad Yasin**\
+**Muhammad Yasin**  
 Data Analytics | Computer Vision | Sports Analytics
 
-📫 LinkedIn: [https://www.linkedin.com/in/muhammad-yasin-ds](https://www.linkedin.com/in/muhammad-yasin-ds)\
-💻 GitHub: [https://github.com/muhammadyasin79](https://github.com/muhammadyasin79)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-yasin-ds)
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadyasin79-black?style=flat&logo=github)](https://github.com/muhammadyasin79)
 
 ---
 
